@@ -1,17 +1,12 @@
 require './GeneBank'
-require 'csv'
 
 arg1 = ARGV[0]
 arg2 = ARGV[1]
 arg3 = ARGV[2]
 arg4 = ARGV[3]
 
-seed_stock = CSV.read(arg1, :quote_char => "|")
-gene_info = CSV.read(arg2, :quote_char => "|")
-cross_data = CSV.read(arg3, :quote_char => "|")
-
 # Creating the GeneBank database object
-gene_bank = GeneBank.new(seed_stock, cross_data, gene_info)
+gene_bank = GeneBank.new(arg1, arg2, arg3)
 
 # Performing the linkeage test
 gene_bank.perform_chi_square
