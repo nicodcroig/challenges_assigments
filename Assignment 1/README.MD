@@ -30,5 +30,5 @@ The rest of the scripts contain the classes for the rest of the objects. Each ob
 
 Every class has its specifict methods, like def chi_square or def plant_seeds, that are called by the GeneBank object.
 
-Although the input is not exactly as the stablished in Moodle, the functionallity of the program is the same as required.
+Although the output is not exactly as the stablished in Moodle, the functionallity of the program is the same as required.
 
