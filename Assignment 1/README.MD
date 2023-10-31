@@ -18,12 +18,12 @@ seed_stock.tsv:
 | seed_stock_1 info | x | x | x | x                                      |
 | seed_stock_2_info  | x | x | x | x | 
 
-GeneBank.new(seed_stock.tsv, cross_data.tsv, gene_info.tsv )
-GeneBank.SeedStocks = [seed_stock_1, seed_stock_2]
+**GeneBank.new(seed_stock.tsv, cross_data.tsv, gene_info.tsv)**
+**GeneBank.SeedStocks = [seed_stock_1, seed_stock_2]**
 
-Genebank.plant_seeds would do:
-+ seed_stock1.plant_seeds
-+ seed_stock2.plant_seeds
+**Genebank.plant_seeds** would do:
++ **seed_stock1.plant_seeds**
++ **seed_stock2.plant_seeds**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The rest of the scripts contain the classes for the rest of the objects. Each object created in each classs corresponds to a row of the original tsv file, and each attribute corresponds to a column from the file. 
