@@ -1,6 +1,7 @@
 require './SeedStock'
 require './CrossData'
 require './GeneData'
+require 'csv'
 
 # Class Genebank contains the rest of the classes.
 class GeneBank
@@ -10,16 +11,19 @@ class GeneBank
 
   # Within the initialize funtion, the rest of the objects are created.
   def initialize(stock_array, cross_array, gene_array)
-    @stock_array = stock_array[1..]
-    @stock_header = stock_array[0]
+    stock_array_  = CSV.read(stock_array, :quote_char => "|")
+    @stock_array = stock_array_[1..]
+    @stock_header = stock_array_[0]
     self.create_seed_stocks
 
-    @cross_array = cross_array[1..]
-    @cross_header = cross_array[0]
+    cross_array_ = CSV.read(cross_array, :quote_char => "|")
+    @cross_array = cross_array_[1..]
+    @cross_header = cross_array_[0]
     self.create_cross_data
 
-    @gene_array = gene_array[1..]
-    @gene_header = gene_array[0]
+    gene_array_ = CSV.read(gene_array, :quote_char => "|")
+    @gene_array = gene_array_[1..]
+    @gene_header = gene_array_[0]
     self.create_gene_data
   end
 
