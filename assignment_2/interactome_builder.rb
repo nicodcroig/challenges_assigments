@@ -52,6 +52,7 @@ class InteractomeBuilder
 
   def fetch_interactions(query_gene, quality_threshold = 0.55)
     url = "#{PSICQUIC_BASE_URL}#{query_gene}?format=tab25"
+    puts "AAAAAAAAA #{url}"
     response = RestClient.get(url)
 
     parse_interactions(response.body, query_gene, quality_threshold)
@@ -63,10 +64,15 @@ class InteractomeBuilder
    def parse_interactions(response_body, query_gene, quality_threshold)
     interactions = []
 
+    # Quality checks
     response_body.lines.each do |line|
       fields = line.strip.split("\t")
       next if fields.empty?
 
+      # Check if the gen belongs to arabidopsis
+      next if fields[9].match(/taxid:(\d+)\(([^)]+)\)/)[1] != "3702"
+          
+      # Check if the intact score is better than the threshold
       intact_score_str = fields.last.match(/intact-miscore:(\d+\.\d+)/)&.captures&.first
       intact_score = intact_score_str.to_f if intact_score_str
 
