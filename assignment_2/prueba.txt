@@ -155,25 +155,25 @@ the protein ID of AT4g04640 is Q01908
 the protein ID of AT5g38990 is Q9FID9
 the protein ID of AT1g29920 is P0CJ48
 the protein ID of AT1g74730 is Q9SSF8
-the protein ID of AT3g05730 is Q9M9M3
-the protein ID of AT4g02770 is Q9S7H1
-the protein ID of AT4g39710 is Q9SCY3
-the protein ID of AT5g48300 is P55228
+couldn't find the protein ID of AT3g05730
+couldn't find the protein ID of AT4g02770
+couldn't find the protein ID of AT4g39710
+couldn't find the protein ID of AT5g48300
 couldn't find the protein ID of AT5g48490
-the protein ID of AT1g20440 is P31168
+couldn't find the protein ID of AT1g20440
 couldn't find the protein ID of AT5g02160
 couldn't find the protein ID of AT2g05540
 couldn't find the protein ID of AT3g62550
-the protein ID of AT1g14280 is Q9M9T4
-the protein ID of AT2g43100 is Q9ZW84
-the protein ID of AT4g09010 is P82281
-the protein ID of AT5g49360 is Q9FGY1
-the protein ID of AT1g30380 is Q9SUI5
+couldn't find the protein ID of AT1g14280
+couldn't find the protein ID of AT2g43100
+couldn't find the protein ID of AT4g09010
+couldn't find the protein ID of AT5g49360
+couldn't find the protein ID of AT1g30380
 couldn't find the protein ID of AT1g78460
-the protein ID of AT3g16140 is Q9SUI7
+couldn't find the protein ID of AT3g16140
 couldn't find the protein ID of AT4g12310
-the protein ID of AT5g01530 is Q07473
-the protein ID of AT5g58260 is Q9LVM1
+couldn't find the protein ID of AT5g01530
+couldn't find the protein ID of AT5g58260
 
 
 FINISHED SUCCESSFULLY
@@ -186,6 +186,152 @@ LOOKING FOR GENE INTERACTIONS ON INTACT DATABASE
 .
 .
 .
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SZ42?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/F4K0A6?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LPL5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q56YA5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q41932?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8GWK5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8S926?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SSS9?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SHE8?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9M8L2?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LHD9?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SUI4?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9ZNZ7?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8L7V3?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9C7N5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SA56?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O23553?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9ZUC2?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SYX2?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P46600?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8L774?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9FVR6?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8RV79?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SN90?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q42569?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9FME8?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SJU4?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9S9N5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8VYZ2?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8H1Q1?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8W0Y8?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9M811?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8H0U5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8H112?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P11035?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SIA5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q5XF07?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O49675?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9FL44?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LV77?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P27140?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8VYU7?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8LEV3?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q94B78?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LVE0?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O81829?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q42605?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P21240?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9M3B6?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O49562?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P42737?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q02971?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q94AL8?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P10896?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8W493?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q66GQ5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8LER3?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q96500?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SVU5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LPW0?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P46283?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9XFT3?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O50055?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q42029?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O22869?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9XFH8?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P25857?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O80634?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/F4KGY6?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q42593?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LVX1?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9XI72?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8VZ49?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O80988?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9M1K3?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8RX87?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8RY71?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LJ45?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q94BN0?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SY97?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8W2F3?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9FFB6?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8L7C9?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9C9W5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SYW8?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9S831?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P25851?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q01667?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P94040?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9XF88?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9ZV48?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O48963?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q6NPQ1?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/B9DGG8?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SX20?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O80860?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LZP9?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8VYL1?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q41951?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8LEK2?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LYA9?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SGS4?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9STF2?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q94KD8?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P93017?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P49078?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q43127?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P0CJ48?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8RX77?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q94F57?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O22773?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9FG89?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9S841?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9XI93?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q6EJ98?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P11490?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9M2D8?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q949Q5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O80446?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q01908?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9FID9?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P0CJ48?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SSF8?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O23160?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q84MB2?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O23160?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P43254?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O50055?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q94BM7?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P92953?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O04292?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q3E9D5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q17TI5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q84MB2?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/O80931?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LVG2?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SYX2?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9LJR3?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q94BM7?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9XGN1?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9SUP6?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9FMF5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/P25856?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q9FDW1?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q17TI5?format=tab25
+AAAAAAAAA http://www.ebi.ac.uk/Tools/webservices/psicquic/intact/webservices/current/search/query/Q8L765?format=tab25
 FINISHED SUCCESSFULLY
 
 
@@ -193,7 +339,7 @@ FINISHED SUCCESSFULLY
 
 
 LOOKING FOR NETWORKS...
-8 networks have been identified:
+7 networks have been identified:
 
 
 Network 1:
@@ -231,20 +377,6 @@ Q8L765
 Q9ZVH4
 Q9C9L0
 O65665
-Q9S7H1
-Q9M9T4
-Q9LQF0
-Q93VJ4
-Q9LXU1
-Q9FMX2
-Q9S763
-Q9SB92
-F4K1A8
-Q9MAI5
-Q570C0
-Q9LPW7
-Q8RWQ8
-Q9FLB1
 
 
 
@@ -316,14 +448,6 @@ Components:
 Q9LZP9
 P25856
 
-
-
-Network 8:
-Components:
-P82281
-P0AA25
-P0A9P4
-
 FINISHED SUCCESSFULLY
 
 
@@ -352,15 +476,6 @@ No KEGG annotations found for Q9FDW1.
 No KEGG annotations found for O22179.
 No KEGG annotations found for Q8L765.
 No KEGG annotations found for O65665.
-No KEGG annotations found for Q9M9T4.
-No KEGG annotations found for Q9LQF0.
-No KEGG annotations found for Q93VJ4.
-No KEGG annotations found for Q9S763.
-No KEGG annotations found for Q9SB92.
-No KEGG annotations found for F4K1A8.
-No KEGG annotations found for Q9MAI5.
-No KEGG annotations found for Q9LPW7.
-No KEGG annotations found for Q8RWQ8.
 No KEGG annotations found for Q9SPL2.
 No KEGG annotations found for Q9FE22.
 No KEGG annotations found for Q9SJL7.
@@ -387,7 +502,6 @@ No KEGG annotations found for Q9SUP6.
 No KEGG annotations found for O48963.
 No KEGG annotations found for Q9FMF5.
 No KEGG annotations found for Q9LZP9.
-No KEGG annotations found for P0AA25.
 
 NETWORK REPORT:
  
@@ -426,23 +540,9 @@ Q8L765
 Q9ZVH4
 Q9C9L0
 O65665
-Q9S7H1
-Q9M9T4
-Q9LQF0
-Q93VJ4
-Q9LXU1
-Q9FMX2
-Q9S763
-Q9SB92
-F4K1A8
-Q9MAI5
-Q570C0
-Q9LPW7
-Q8RWQ8
-Q9FLB1
 
 GO terms:
-GO:0005634 (29 occurrences): C:nucleus
+GO:0005634 (25 occurrences): C:nucleus
   Gene: O23160
   Gene: Q9FHZ1
   Gene: Q17TI5
@@ -451,33 +551,19 @@ GO:0005634 (29 occurrences): C:nucleus
   Gene: O04479
   Gene: Q9FDW1
   Gene: Q8L765
-  Gene: Q9LQF0
-  Gene: Q9LXU1
-  Gene: Q9S763
-  Gene: Q9FLB1
-  Gene: Q9LXU1
-GO:0005737 (8 occurrences): C:cytoplasm
-  Gene: Q9LXU1
-  Gene: Q9FLB1
-  Gene: Q9LXU1
-GO:0003677 (7 occurrences): F:DNA binding
-  Gene: Q93VJ4
-GO:0003729 (6 occurrences): F:mRNA binding
+GO:0003700 (6 occurrences): F:DNA-binding transcription factor activity
+  Gene: Q9FDW1
+GO:0003729 (5 occurrences): F:mRNA binding
   Gene: Q9SSS9
   Gene: P11035
   Gene: Q9SA56
   Gene: Q9FQ04
-  Gene: Q9S7H1
-GO:0003700 (6 occurrences): F:DNA-binding transcription factor activity
-  Gene: Q9FDW1
 GO:0009638 (5 occurrences): P:phototropism
   Gene: Q05999
 GO:0042742 (5 occurrences): P:defense response to bacterium
   Gene: O80931
   Gene: Q9SGS4
   Gene: Q9FDW1
-GO:0005829 (5 occurrences): C:cytosol
-  Gene: Q9FQ04
 GO:0009737 (4 occurrences): P:response to abscisic acid
   Gene: Q17TI5
   Gene: Q9FDW1
@@ -486,20 +572,8 @@ GO:0000976 (4 occurrences): F:transcription cis-regulatory region binding
 GO:0006355 (3 occurrences): P:regulation of DNA-templated transcription
   Gene: O23160
   Gene: Q9FDW1
-GO:0048366 (3 occurrences): P:leaf development
-  Gene: Q9FHZ1
-  Gene: Q9M9T4
 GO:0009416 (3 occurrences): P:response to light stimulus
   Gene: P11035
-GO:0009734 (3 occurrences): P:auxin-activated signaling pathway
-  Gene: Q17TI5
-  Gene: Q570C0
-GO:0048527 (3 occurrences): P:lateral root development
-  Gene: Q17TI5
-  Gene: Q9LPW7
-GO:0005886 (3 occurrences): C:plasma membrane
-  Gene: Q05999
-  Gene: Q9M9T4
 GO:0004672 (3 occurrences): F:protein kinase activity
   Gene: Q05999
 GO:0009944 (3 occurrences): P:polarity specification of adaxial/abaxial axis
@@ -507,11 +581,15 @@ GO:0009944 (3 occurrences): P:polarity specification of adaxial/abaxial axis
   Gene: O04479
 GO:0010119 (3 occurrences): P:regulation of stomatal movement
   Gene: Q38845
+GO:0005829 (3 occurrences): C:cytosol
+  Gene: Q9FQ04
 GO:0010319 (2 occurrences): C:stromule
   Gene: Q9SSS9
 GO:0010929 (2 occurrences): P:positive regulation of auxin mediated signaling pathway
   Gene: O23160
   Gene: Q9FDW1
+GO:0048366 (2 occurrences): P:leaf development
+  Gene: Q9FHZ1
 GO:0005768 (2 occurrences): C:endosome
   Gene: Q9LV27
 GO:0009570 (2 occurrences): C:chloroplast stroma
@@ -519,6 +597,12 @@ GO:0009570 (2 occurrences): C:chloroplast stroma
   Gene: Q9SGS4
 GO:0099402 (2 occurrences): P:plant organ development
   Gene: Q3E9D5
+GO:0009734 (2 occurrences): P:auxin-activated signaling pathway
+  Gene: Q17TI5
+GO:0048527 (2 occurrences): P:lateral root development
+  Gene: Q17TI5
+GO:0005886 (2 occurrences): C:plasma membrane
+  Gene: Q05999
 GO:0045892 (2 occurrences): P:negative regulation of DNA-templated transcription
   Gene: O80931
 GO:0009723 (2 occurrences): P:response to ethylene
@@ -528,16 +612,12 @@ GO:0009943 (2 occurrences): P:adaxial/abaxial axis specification
 GO:0010286 (2 occurrences): P:heat acclimation
   Gene: Q9FQ04
   Gene: Q9SGS4
-GO:0045454 (2 occurrences): P:cell redox homeostasis
-  Gene: Q9SGS4
 GO:0043565 (2 occurrences): F:sequence-specific DNA binding
   Gene: Q9FDW1
 GO:2000022 (2 occurrences): P:regulation of jasmonic acid mediated signaling pathway
   Gene: Q9FDW1
 GO:0009911 (2 occurrences): P:positive regulation of flower development
   Gene: Q9ZVH4
-GO:0009738 (2 occurrences): P:abscisic acid-activated signaling pathway
-  Gene: Q9FLB1
 GO:0015979 (1 occurrences): P:photosynthesis
   Gene: Q9SSS9
 GO:0009773 (1 occurrences): P:photosynthetic electron transport in photosystem I
@@ -662,6 +742,8 @@ GO:0009826 (1 occurrences): P:unidimensional cell growth
   Gene: Q9FQ04
 GO:0009941 (1 occurrences): C:chloroplast envelope
   Gene: Q9SGS4
+GO:0045454 (1 occurrences): P:cell redox homeostasis
+  Gene: Q9SGS4
 GO:1900150 (1 occurrences): P:regulation of defense response to fungus
   Gene: Q9FDW1
 GO:2000031 (1 occurrences): P:regulation of salicylic acid mediated signaling pathway
@@ -670,75 +752,25 @@ GO:0009651 (1 occurrences): P:response to salt stress
   Gene: Q9FDW1
 GO:0009639 (1 occurrences): P:response to red or far red light
   Gene: Q9ZVH4
-GO:0140547 (1 occurrences): P:acquisition of seed longevity
-  Gene: Q9S7H1
-GO:0048510 (1 occurrences): P:regulation of timing of transition from vegetative to reproductive phase
-  Gene: Q9LQF0
-GO:0006351 (1 occurrences): P:DNA-templated transcription
-  Gene: Q93VJ4
-GO:0045824 (1 occurrences): P:negative regulation of innate immune response
-  Gene: Q93VJ4
-GO:0001216 (1 occurrences): F:DNA-binding transcription activator activity
-  Gene: Q9FMX2
-GO:0048578 (1 occurrences): P:positive regulation of long-day photoperiodism, flowering
-  Gene: Q9FMX2
-GO:0006817 (1 occurrences): P:phosphate ion transport
-  Gene: Q9S763
-GO:0048653 (1 occurrences): P:anther development
-  Gene: Q9SB92
-GO:0090506 (1 occurrences): P:axillary shoot meristem initiation
-  Gene: Q9SB92
-GO:0019827 (1 occurrences): P:stem cell population maintenance
-  Gene: Q9SB92
-GO:0080166 (1 occurrences): P:stomium development
-  Gene: Q9SB92
-GO:0019005 (1 occurrences): C:SCF ubiquitin ligase complex
-  Gene: Q570C0
-GO:0010011 (1 occurrences): F:auxin binding
-  Gene: Q570C0
-GO:0038198 (1 occurrences): F:auxin receptor activity
-  Gene: Q570C0
-GO:0000822 (1 occurrences): F:inositol hexakisphosphate binding
-  Gene: Q570C0
-GO:0010311 (1 occurrences): P:lateral root formation
-  Gene: Q570C0
-GO:0009733 (1 occurrences): P:response to auxin
-  Gene: Q570C0
-GO:0080022 (1 occurrences): P:primary root development
-  Gene: Q9LPW7
-GO:0010427 (1 occurrences): F:abscisic acid binding
-  Gene: Q9FLB1
-GO:0004864 (1 occurrences): F:protein phosphatase inhibitor activity
-  Gene: Q9FLB1
-GO:0038023 (1 occurrences): F:signaling receptor activity
-  Gene: Q9FLB1
 
 KEGG terms:
-ath04712 (9 occurrences): Circadian rhythm - plant
-  Gene: Q9FMX2
-ath04016 (4 occurrences): MAPK signaling pathway - plant
+ath04016 (3 occurrences): MAPK signaling pathway - plant
   Gene: O80397
   Gene: Q9FQ04
-  Gene: Q9FLB1
-ath04075 (3 occurrences): Plant hormone signal transduction
-  Gene: Q8L9Y3
-  Gene: Q570C0
 ath04120 (3 occurrences): Ubiquitin mediated proteolysis
   Gene: Q9ZVH4
   Gene: Q9C9L0
+ath04075 (2 occurrences): Plant hormone signal transduction
+  Gene: Q8L9Y3
 ath04136 (2 occurrences): Autophagy - other
   Gene: Q9LV27
   Gene: Q6NNP0
-ath00195 (2 occurrences): Photosynthesis
-  Gene: Q9SA56
-  Gene: Q9S7H1
-ath03018 (2 occurrences): RNA degradation
-  Gene: Q9LXU1
-  Gene: Q9LXU1
 ath00190 (1 occurrences): Oxidative phosphorylation
   Gene: Q9SSS9
 ath00910 (1 occurrences): Nitrogen metabolism
   Gene: P11035
+ath00195 (1 occurrences): Photosynthesis
+  Gene: Q9SA56
 ath00270 (1 occurrences): Cysteine and methionine metabolism
   Gene: Q3E9D5
 ath03015 (1 occurrences): mRNA surveillance pathway
@@ -762,7 +794,7 @@ Q9SJL7
 O50055
 
 GO terms:
-GO:0005634 (29 occurrences): C:nucleus
+GO:0005634 (25 occurrences): C:nucleus
   Gene: Q9SYX2
   Gene: P43254
   Gene: Q9FE22
@@ -770,19 +802,17 @@ GO:0005634 (29 occurrences): C:nucleus
   Gene: O24646
   Gene: Q96524
   Gene: Q43125
-GO:0005737 (8 occurrences): C:cytoplasm
+GO:0003700 (6 occurrences): F:DNA-binding transcription factor activity
+  Gene: Q39057
+GO:0005737 (6 occurrences): C:cytoplasm
   Gene: Q9SPL2
   Gene: Q96524
   Gene: Q43125
-GO:0003677 (7 occurrences): F:DNA binding
+GO:0003677 (6 occurrences): F:DNA binding
   Gene: O24646
-GO:0003700 (6 occurrences): F:DNA-binding transcription factor activity
-  Gene: Q39057
 GO:0009638 (5 occurrences): P:phototropism
   Gene: Q96524
   Gene: Q43125
-GO:0005829 (5 occurrences): C:cytosol
-  Gene: Q9FE22
 GO:0009737 (4 occurrences): P:response to abscisic acid
   Gene: O24646
 GO:0000976 (4 occurrences): F:transcription cis-regulatory region binding
@@ -804,6 +834,8 @@ GO:0004672 (3 occurrences): F:protein kinase activity
   Gene: Q43125
 GO:0010119 (3 occurrences): P:regulation of stomatal movement
   Gene: P43254
+GO:0005829 (3 occurrences): C:cytosol
+  Gene: Q9FE22
 GO:0010218 (3 occurrences): P:response to far red light
   Gene: Q9FE22
   Gene: Q39057
@@ -816,8 +848,6 @@ GO:0099402 (2 occurrences): P:plant organ development
   Gene: Q43125
 GO:0009911 (2 occurrences): P:positive regulation of flower development
   Gene: Q96524
-GO:0009738 (2 occurrences): P:abscisic acid-activated signaling pathway
-  Gene: Q9FE22
 GO:0009640 (2 occurrences): P:photomorphogenesis
   Gene: Q9SYX2
   Gene: Q43125
@@ -890,6 +920,8 @@ GO:0009641 (1 occurrences): P:shade avoidance
   Gene: P43254
 GO:0003712 (1 occurrences): F:transcription coregulator activity
   Gene: Q9FE22
+GO:0009738 (1 occurrences): P:abscisic acid-activated signaling pathway
+  Gene: Q9FE22
 GO:0010018 (1 occurrences): P:far-red light signaling pathway
   Gene: Q39057
 GO:0009908 (1 occurrences): P:flower development
@@ -960,7 +992,7 @@ GO:0009785 (1 occurrences): P:blue light signaling pathway
   Gene: Q9SJL7
 
 KEGG terms:
-ath04712 (9 occurrences): Circadian rhythm - plant
+ath04712 (8 occurrences): Circadian rhythm - plant
   Gene: Q9SYX2
   Gene: Q9LJR3
   Gene: Q94BM7
@@ -990,21 +1022,19 @@ Q9LEZ3
 Q9SAD4
 
 GO terms:
-GO:0005634 (29 occurrences): C:nucleus
-  Gene: Q9LXU1
+GO:0005634 (25 occurrences): C:nucleus
   Gene: P46600
   Gene: Q9LXU1
   Gene: Q94JL3
   Gene: Q9SAD4
-GO:0005737 (8 occurrences): C:cytoplasm
+GO:0005737 (6 occurrences): C:cytoplasm
   Gene: Q9LXU1
-  Gene: Q9LXU1
-GO:0005829 (5 occurrences): C:cytosol
-  Gene: Q9SAD4
 GO:0006355 (3 occurrences): P:regulation of DNA-templated transcription
   Gene: P92953
 GO:0009944 (3 occurrences): P:polarity specification of adaxial/abaxial axis
   Gene: O04292
+GO:0005829 (3 occurrences): C:cytosol
+  Gene: Q9SAD4
 GO:0009943 (2 occurrences): P:adaxial/abaxial axis specification
   Gene: O04292
 GO:0043565 (2 occurrences): F:sequence-specific DNA binding
@@ -1046,10 +1076,9 @@ GO:0090708 (1 occurrences): P:specification of plant organ axis polarity
   Gene: Q9SAD4
 
 KEGG terms:
-ath04075 (3 occurrences): Plant hormone signal transduction
+ath04075 (2 occurrences): Plant hormone signal transduction
   Gene: Q8LAL2
-ath03018 (2 occurrences): RNA degradation
-  Gene: Q9LXU1
+ath03018 (1 occurrences): RNA degradation
   Gene: Q9LXU1
 
 Network 4:
@@ -1062,32 +1091,32 @@ Q9FIX5
 Q9LVS0
 
 GO terms:
-GO:0005634 (29 occurrences): C:nucleus
+GO:0005634 (25 occurrences): C:nucleus
   Gene: Q9XGN1
   Gene: Q9LKL2
   Gene: Q9LVS0
-GO:0005737 (8 occurrences): C:cytoplasm
-  Gene: Q9XGN1
-GO:0003677 (7 occurrences): F:DNA binding
-  Gene: F4KGY6
-  Gene: Q9XGN1
-  Gene: Q9LKL2
 GO:0003700 (6 occurrences): F:DNA-binding transcription factor activity
   Gene: F4KGY6
   Gene: Q9LKL2
   Gene: Q9LVS0
+GO:0005737 (6 occurrences): C:cytoplasm
+  Gene: Q9XGN1
+GO:0003677 (6 occurrences): F:DNA binding
+  Gene: F4KGY6
+  Gene: Q9XGN1
+  Gene: Q9LKL2
 GO:0009737 (4 occurrences): P:response to abscisic acid
   Gene: Q9LVS0
 GO:0000976 (4 occurrences): F:transcription cis-regulatory region binding
   Gene: Q9FT81
   Gene: Q9LVS0
-GO:0048366 (3 occurrences): P:leaf development
-  Gene: Q9LVS0
-GO:0009734 (3 occurrences): P:auxin-activated signaling pathway
-  Gene: F4KGY6
-GO:0048527 (3 occurrences): P:lateral root development
-  Gene: Q9LVS0
 GO:0010150 (3 occurrences): P:leaf senescence
+  Gene: Q9LVS0
+GO:0048366 (2 occurrences): P:leaf development
+  Gene: Q9LVS0
+GO:0009734 (2 occurrences): P:auxin-activated signaling pathway
+  Gene: F4KGY6
+GO:0048527 (2 occurrences): P:lateral root development
   Gene: Q9LVS0
 GO:0045892 (2 occurrences): P:negative regulation of DNA-templated transcription
   Gene: Q9LVS0
@@ -1130,7 +1159,7 @@ GO:0090697 (1 occurrences): P:post-embryonic plant organ morphogenesis
   Gene: Q9LVS0
 
 KEGG terms:
-ath04712 (9 occurrences): Circadian rhythm - plant
+ath04712 (8 occurrences): Circadian rhythm - plant
   Gene: Q9LKL2
 ath03083 (1 occurrences): Polycomb repressive complex
   Gene: Q9XGN1
@@ -1142,24 +1171,24 @@ Q9SUP6
 Q39008
 
 GO terms:
-GO:0005634 (29 occurrences): C:nucleus
+GO:0005634 (25 occurrences): C:nucleus
   Gene: Q8RY71
-  Gene: Q9SUP6
-  Gene: Q39008
-GO:0003677 (7 occurrences): F:DNA binding
   Gene: Q9SUP6
   Gene: Q39008
 GO:0003700 (6 occurrences): F:DNA-binding transcription factor activity
   Gene: Q9SUP6
+GO:0003677 (6 occurrences): F:DNA binding
+  Gene: Q9SUP6
+  Gene: Q39008
 GO:0042742 (5 occurrences): P:defense response to bacterium
   Gene: Q8RY71
   Gene: Q9SUP6
-GO:0005886 (3 occurrences): C:plasma membrane
-  Gene: Q39008
 GO:0010150 (3 occurrences): P:leaf senescence
   Gene: Q8RY71
   Gene: Q9SUP6
 GO:0005768 (2 occurrences): C:endosome
+  Gene: Q39008
+GO:0005886 (2 occurrences): C:plasma membrane
   Gene: Q39008
 GO:2000022 (2 occurrences): P:regulation of jasmonic acid mediated signaling pathway
   Gene: Q9SUP6
@@ -1197,7 +1226,7 @@ GO:0022622 (1 occurrences): P:root system development
   Gene: Q39008
 
 KEGG terms:
-ath04016 (4 occurrences): MAPK signaling pathway - plant
+ath04016 (3 occurrences): MAPK signaling pathway - plant
   Gene: Q39008
 
 Network 6:
@@ -1206,7 +1235,7 @@ O48963
 Q9FMF5
 
 GO terms:
-GO:0005737 (8 occurrences): C:cytoplasm
+GO:0005737 (6 occurrences): C:cytoplasm
   Gene: O48963
 GO:0009638 (5 occurrences): P:phototropism
   Gene: O48963
@@ -1246,7 +1275,7 @@ Q9LZP9
 P25856
 
 GO terms:
-GO:0003729 (6 occurrences): F:mRNA binding
+GO:0003729 (5 occurrences): F:mRNA binding
   Gene: P25856
 GO:0010319 (2 occurrences): C:stromule
   Gene: P25856
@@ -1279,37 +1308,6 @@ GO:0051289 (1 occurrences): P:protein homotetramerization
 KEGG terms:
 ath00710 (1 occurrences): Carbon fixation in photosynthetic organisms
   Gene: P25856
-
-Network 8:
-Components:
-P82281
-P0AA25
-P0A9P4
-
-GO terms:
-GO:0005829 (5 occurrences): C:cytosol
-  Gene: P0AA25
-  Gene: P0A9P4
-GO:0045454 (2 occurrences): P:cell redox homeostasis
-  Gene: P0AA25
-GO:0009543 (1 occurrences): C:chloroplast thylakoid lumen
-  Gene: P82281
-GO:0030337 (1 occurrences): F:DNA polymerase processivity factor activity
-  Gene: P0AA25
-GO:0015035 (1 occurrences): F:protein-disulfide reductase activity
-  Gene: P0AA25
-GO:0050660 (1 occurrences): F:flavin adenine dinucleotide binding
-  Gene: P0A9P4
-GO:0004791 (1 occurrences): F:thioredoxin-disulfide reductase (NADP) activity
-  Gene: P0A9P4
-
-KEGG terms:
-ath00053 (1 occurrences): Ascorbate and aldarate metabolism
-  Gene: P82281
-ecj00450 (1 occurrences): Selenocompound metabolism
-  Gene: P0A9P4
-eco00450 (1 occurrences): Selenocompound metabolism
-  Gene: P0A9P4
 
 END OF REPORT
 ################################
